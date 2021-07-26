@@ -4,8 +4,6 @@ import com.example.employeepayroll.dto.EmployeePayrollDTO;
 import com.example.employeepayroll.dto.ResponseDTO;
 import com.example.employeepayroll.model.EmployeePayrollData;
 import com.example.employeepayroll.service.IEmployeePayrollService;
-import jdk.internal.dynalink.linker.LinkerServices;
-import jdk.management.resource.ResourceId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
